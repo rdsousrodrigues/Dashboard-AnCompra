@@ -9,7 +9,10 @@ Com uma abordagem clara e acessível, essa ferramenta proporciona aos gestores u
 
 Utilizando o Power BI, executamos a mineração dos dados presentes na planilha Base Compras, transformando informações brutas em análises concisas e significativas. O resultado é um painel interativo que oferece uma exploração dinâmica das métricas de desempenho, que influenciam diretamente os resultados do Relatório de Compras.
 
-**Brevemente, será adicionado um vídeo que irá ilustrar o processo de criação do Dashboard**
+**Vídeo ilustrativo do processo de criação do Dashboard**
+
+
+https://github.com/user-attachments/assets/dfad363a-8be1-4219-927e-e3bdff1a24be
 
 Estou convencido de que essa abordagem irá aprimorar tanto a apresentação dos dados quanto a compreensão das projeções de compras, facilitando um planejamento mais eficaz e alinhado aos objetivos da empresa. 
 
